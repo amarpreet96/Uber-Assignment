@@ -1,0 +1,6 @@
+applications:
+  - path: .
+    name: passport-authenticator
+    memory: 64M
+    instance: 1
+    disk_quota: 1024M
